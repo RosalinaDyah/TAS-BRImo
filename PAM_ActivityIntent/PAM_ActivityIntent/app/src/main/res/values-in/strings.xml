@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BRImo</string>
+    <string name="btn_login_title">Masuk</string>
+    <string name="label_username">Nama Pengguna</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="label_signup">Daftar</string>
+    <string name="label_welcome">Selamat Datang</string>
+    <string name="label_balance">Saldo</string>
+    <string name="label_menu">Menu</string>
+    <string name="label_transfer">Transfer</string>
+    <string name="label_briva">BRIVA</string>
+    <string name="label_electricity">Listrik</string>
+    <string name="label_other">Lainnya</string>
+    <string name="label_financial">Catatan Keuangan</string>
+    <string name="label_view_details">Lihat Detail</string>
+    <string name="label_income">Pemasukan</string>
+    <string name="label_expenses">Pengeluaran</string>
+    <string name="label_differnce">Selisih</string>
+    <string name="label_last_transaction">Transaksi Terakhir</string>
+    <string name="label_view_mutation">Lihat Mutasi</string>
+    <string name="label_today">Hari ini</string>
+    <string name="label_this_month">Bulan ini</string>
+    <string name="label_home">Home</string>
+    <string name="label_mutation">Mutasi</string>
+    <string name="label_activity">Aktivitas</string>
+    <string name="label_profile">Profil</string>
+    <string name="label_search_mutation">Cari Mutasi</string>
+    <string name="label_choose_account">Pilih Rekening</string>
+    <string name="label_choose_date">Pilih Data</string>
+    <string name="label_search">Cari</string>
+    <string name="label_first_name">Nama Depan</string>
+    <string name="label_last_name">Nama Belakang</string>
+    <string name="label_confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="label_logout">Keluar</string>
+    <string name="label_change_profile">Ubah Photo Profil</string>
+    <string name="label_success">Sukses</string>
+    <string name="label_allowcamera">Izin Kamera diterima</string>
+    <string name="label_accesscamera">Perlu izin untuk mengakses Kamera</string>
+    <string name="label_denycamera">Izin Kamera ditolak secara permanen. Anda dapat mengaktifkannya di setelan aplikasi</string>
+    <string name="label_allowmic">Izin Merekam Audio diterima</string>
+    <string name="label_accessmic">Perlu izin untuk mengakses Rekam Audio</string>
+    <string name="label_denymic">Izin Rekam Audio ditolak secara permanen. Anda dapat mengaktifkannya di setelan aplikasi</string>
+    <string name="label_confirmation">Konfirmasi</string>
+    <string name="label_exitapp">Apakah kamu ingin menutup aplikasi ini?</string>
+    <string name="label_cancle">Batal</string>
+    <string name="label_yes">Ya</string>
+    <string name="label_fav">Fitur Favorit</string>
+    <string name="label_topup">Top Up</string>
+    <string name="label_pulsa">Pulsa</string>
+    <string name="label_dompet">Dompet Digital</string>
+    <string name="label_brizzi">BRIZZI</string>
+    <string name="label_tarik">Tarik Tunai</string>
+    <string name="label_financial_statements">Laporan Keuangan</string>
+    <string name="label_inpo">Info Rekening</string>
+    <string name="label_bill">Info Tagihan</string>
+    <string name="label_transfercash">Transfer dan Tarik Tunai</string>
+    <string name="label_deposit">Setor Tunai</string>
+    <string name="label_qr">QR Pedagang</string>
+    <string name="label_international">Transfer Internasional</string>
+    <string name="label_forex">Konversi Valas</string>
+    <string name="label_instalment">Cicilan</string>
+    <string name="label_education">Pendidikan</string>
+    <string name="label_telkom">Telkom</string>
+    <string name="label_bpjs">BPJS</string>
+    <string name="label_investasi">Investasi</string>
+    <string name="label_tabunganbri">TABUNGAN BRI</string>
+    <string name="label_langganan">Langganan Bulanan</string>
+    <string name="label_totalsaldo">Total Saldo</string>
+    <string name="label_bukarek">+ Buka Rekening Baru</string>
+
+    <!--transfer-->
+    <string name="label_transferterakhir">Transfer Terakhir</string>
+    <string name="label_daftartransfer">Daftar Transfer</string>
+    <string name="label_caridaftar">Cari Daftar</string>
+    <string name="label_belumadadaftar">Belum Ada Daftar</string>
+    <string name="label_tambahpenerima">Tambah Penerima</string>
+
+    <!--briva-->
+    <string name="label_pembayaranterakhir">Pembayaran Terakhir</string>
+    <string name="label_informasibriva">Silahkan gunakan fitur Dompet Digital untuk melakukan top up GoPay, OVO, DANA, LinkAja dan ShopeePay</string>
+    <string name="label_daftarbriva">Daftar BRIVA</string>
+    <string name="label_pembayaranbaru">Pembayaran Baru</string>
+    <string name="label_bayarbriva">Bayar BRIVA</string>
+    <string name="label_nomorbriva">Nomor BRIVA</string>
+    <string name="label_lanjutkan">Lanjutkan</string>
+    <string name="label_sumberdana">Sumber Dana</string>
+    <string name="label_catatan">Catatan</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_nominal">Nominal</string>
+    <string name="label_biayaadmin">Biaya Admin</string>
+    <string name="label_total">Total</string>
+    <string name="label_totalpembayaran">Total Pembayaran</string>
+    <string name="label_nominaltagihan">Nominal Tagihan</string>
+    <string name="label_institusi">Institusi</string>
+    <string name="label_namapelanggan">Nama Pelanggan</string>
+    <string name="label_keteranganbriva">Keterangan</string>
+    <string name="label_bayar">Bayar</string>
+    <string name="label_tagihan">Tagihan</string>
+    <string name="label_masukkanpin">Maukkan PIN</string>
+    <string name="label_transaksiberhasil">Transaksi Berhasil</string>
+    <string name="label_tanggal">Tanggal</string>
+    <string name="label_nomorreferensi">Nomor Referensi</string>
+    <string name="label_jenistransaksi">Jenis Transaksi</string>
+    <string name="label_banktujuan">Bank Tujuan</string>
+    <string name="label_namatujuan">Nama Tujuan</string>
+
+<!--pulsa-->
+    <string name="label_pulsadandata">Pulsa/Data</string>
+    <string name="label_belipulsadandata">Beli Pulsa/Data</string>
+    <string name="label_nohp">Nomor HP</string>
+    <string name="label_paketdata">Paket Data</string>
+    <string name="label_beli">Beli</string>
+    <string name="label_provider">Provider</string>
+    <string name="label_jenisproduk">Jenis Produk</string>
+    <string name="label_nomorserial">Nomor Serial</string>
+    <string name="label_pembelianterakhir">Pembelian Terakhir</string>
+    <string name="label_freedom1gb">Kuota Utama 1GB + Kuota Apps 4.5 GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedom2gb">Kuota Utama 2GB + Kuota Apps 7.5 GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedom3gb">Kuota Utama 3GB + Kuota Youtube, Instagram dan Apps 15GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedom5gb">Kuota Utama 5GB + Kuota Youtube, Instagram dan Apps 15GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedom7gb">Kuota Utama 7GB + Kuota Youtube, IG, Tik Tok dan Apps 20GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedom10gb">Kuota Utama 10GB + Kuota Youtube, IG, Tik Tok dan Apps 25GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedom15gb">Kuota Utama 15GB + Kuota Youtube, IG, Tik Tok dan Apps 25GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedomjumbo">Kuota akses internet 38GB. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedomcombo">Kuota Utama 1GB + Kuota Malam 1gb + Telepon ke semua operator 5 menit. Dilengkapi PULSA SAFE</string>
+    <string name="label_freedominternet">Kuota Utama 4GB, masa aktif 30 Hari. Dilengkapi PULSA SAFE</string>
+
+<!--valas-->
+    <string name="label_memilikivalas">Anda belum memiliki rekening valas</string>
+    <string name="label_bukarekvalas">Buka Rekening Valas</string>
+    <string name="label_pilihjenistab">Pilih Jenis Tabungan</string>
+    <string name="label_pilihtabungan">Pilih produk tabungan yang kamu inginkan</string>
+    <string name="label_bukarekk">Open Account</string>
+    <string name="label_britama">Produk tabungan yang memberikan beragam kemudahan dalam melakukan transaksi perbankan dengan didukung fasilitas e-banking dan sistem real time online yang akan memungkinkan nasabah untuk berinteraksi kapanpun dan dimanapun. </string>
+    <string name="label_simpedes">Produk tabungan yang memberikan beragam kemudahan dalam melakukan transaksi perbankan dengan didukung fasilitas e-banking dan sistem real time online yang akan memungkinkan nasabah untuk berinteraksi kapanpun dan dimanapun. </string>
+    <string name="label_simpedesbisa">Tabungan yang memliki fitur pengelolaan keuangan sehingga nasabah dapat mengatur pos-pos keuangan sendiri sesuai tujuan yang diterapkan</string>
+    <string name="label_britamavalas">Tabungan dalam mata uang asing yang penyetoran dan pengambilannya tidak dibatasi baik frekuensi maupun jumlahnya</string>
+    <string name="label_britamabisnis">Produk tabungan yang diperuntukkan bagi nasabah yang menginginkan kemudahan dalam melakukan transaksi perbankan yang menunjang usahanya. Dimana penyetoran dapat dilakukan setiap saat dan frekuensi pengambilannya tidak dibatasi sepanjang saldo mencukupi dan memenuhu syarat-syarat yang berlaku</string>
+    <string name="label_britamarencana">Tabungan Rencana BRI hasil diferensasi produk Tabungan BritAma Rencana BRI yang diperuntukan untuk tujuan investasi dan perancangan keuangan yang pembukuan rekeningnya secara mandiri pada platform digital</string>
+
+<!--    catatan keuangan-->
+    <string name="label_blmadapemasukan">Belum Ada Pemasukan</string>
+    <string name="label_buatcatbaru">Buat Catatan Baru</string>
+    <string name="label_uangkeluar">Uang Keluar</string>
+    <string name="label_belanja">Belanja</string>
+
+
+    <string name="label_topupterakhir">Top Up Terakhir</string>
+    <string name="label_daftardompet">Daftar Dompet Digital</string>
+    <string name="label_topupbaru">Top Up Baru</string>
+
+    <string name="label_mudik">BRI menyediakan layanan perbankan bagi masyarakat saat libur ...</string>
+    <string name="label_mudiklg">Mudik Lebih Tenang, Ada BRI di Wase! </string>
+
+    <string name="label_tukarvalas">Lebih mudah tukar Valas menggunakan BRImo</string>
+    <string name="label_tukarvalaslg">Mudahnya tukar valas pakai BRImo, tinggal klik</string>
+
+    <string name="label_mudikasik">Mudik Asik Bareng BRImo</string>
+    <string name="label_mudikasiklg">Dapatkan Cashback dan diskon spesial ramadhan hanya di BRImo</string>
+
+    <string name="label_none">Belum Ada</string>
+    <string name="label_card_number">Nomor Kartu</string>
+    <string name="label_brizzi_number">Nomor Brizzi</string>
+    <string name="label_one">1. Untuk Handphone yang memiliki NFC, silahkan Update Saldo Kartu anda setelah melakukan Top-up</string>
+    <string name="label_two">2. Untuk Handphone yang tidak memiliki NFC, silahkan Update Saldo Kartu setelah melakukan Top-up dengan melalui ATM Bri atau EDC BRI yang tersedia Agen BRILink atau Kantor Cabang BRI</string>
+    <string name="label_topup_brizzi">Top Up Brizzi</string>
+    <string name="label_information">Keterangan</string>
+    <string name="label_last_purchase">Pembelian Terakhir</string>
+
+    <string name="label_bayarlistrik">Bayar Listrik</string>
+    <string name="label_tokenlistrik">Token Listrik</string>
+    <string name="label_cetakulanglistrik">Cetak Ulang Token Listrik</string>
+    <string name="label_daftarlistrik">Daftar Listrik</string>
+    <string name="label_jumlah">Jumlah</string>
+    <string name="label_kategori">Kategori</string>
+    <string name="label_pilihkategori">Pilih Kategori</string>
+    <string name="label_pembayaran">Pilih Pembayaran</string>
+    <string name="label_pilihpembayaran">Pilih Pembayaran</string>
+    <string name="label_simpan">Simpan</string>
+
+
+    <string name="label_notif">Notifikasi</string>
+    <string name="label_produklistrik">Nomor Tujuan</string>
+    <string name="label_nomortujuan">Nomor Tujuan</string>
+    <string name="label_tambahdaftarbaru">Tambah Daftar Baru</string>
+    <string name="label_salin">Salin</string>
+    <string name="label_bataswaktu">Batas Waktu Penyetoran</string>
+    <string name="label_jam">04 Menit 57 Detik</string>
+    <string name="label_informasi">Informasi</string>
+    <string name="label_keterangan">Pastikan pecahan uang yang ingin disetor tidak kotor, sobek atau terlipat untuk bisa diterima oleh mesin CRM</string>
+    <string name="label_informasilanjut">Informasi Lanjut</string>
+    <string name="label_setortunai">Setor Tunai</string>
+    <string name="label_streaming">Streaming</string>
+
+    <!--    Internasinal-->
+    <string name="label_Internasional">Transfer Internasional</string>
+    <string name="label_tf_list">Daftar Transfer</string>
+    <string name="label_sc_list">Cari Daftar</string>
+    <string name="label_country">Nagara</string>
+
+<!--    dompet-->
+    <string name="label_dompetdigital">Digital Wallet</string>
+    <string name="label_pilihdompetdigital">Choose a Dogotal Wallet</string>
+    <string name="label_nomorhandphone">Mobile Phone Number</string>
+
+    <string name="label_cobalagi">Incorrect pin, please try again</string>
+    <string name="label_nomorrekeningalias">Nomor Rekening / Alias</string>
+    <string name="label_masukkannomor">Masukkan Nomor Rekening / Alias</string>
+
+    <string name="label_SumbDan">Sumber Dana</string>
+    <string name="label_JalurTar">Jalur Tarik Tunai</string>
+    <string name="label_Pilnom">Pilih Nominal</string>
+    <string name="label_Lanjutkan">Lanjutkan</string>
+    <string name="label_Piljar">Pilih Jalur Tarik Tunai</string>
+    <string name="label_Detail">Detail</string>
+    <string name="label_biayaAdmin">Biaya Admin</string>
+    <string name="label_transferbaru">Transfer Baru</string>
+
+</resources>
